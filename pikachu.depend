@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1618593984 source:c:\pikachu\gamepikachu\pikachu\game.cpp
+	"game.h"
+
+1618594325 c:\pikachu\gamepikachu\pikachu\game.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1618594325 source:c:\pikachu\gamepikachu\pikachu\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"game.h"
+
+1618593984 source:c:\pikachu\game.cpp
+	"game.h"
+
+1618594325 c:\pikachu\game.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1618595633 source:c:\pikachu\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"game.h"
+
+1619710749 source:c:\pikachu project\game.cpp
+	"game.h"
+
+1620095655 c:\pikachu project\game.h
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1620095609 source:c:\pikachu project\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"game.h"
+
